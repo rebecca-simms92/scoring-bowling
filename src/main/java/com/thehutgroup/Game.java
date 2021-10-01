@@ -3,7 +3,7 @@ package com.thehutgroup;
 public class Game {
 
     public int roll(int pins) {
-        return 10;
+        return pins;
     }
 
     public int score() {
